@@ -26,8 +26,8 @@ npm start
 
 You would then need to create your own mongo atlas db and put in your connection uri into function.
 #### Server.js
-```
-mongoose.connect(YOUR DB URI, {
+```javascript
+mongoose.connect(YOUR_DB_URI, {
     useNewUriParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
