@@ -2,7 +2,7 @@
 
 ### View Online
 
-[Visit the site here](http://exercisetracker.info")
+[Visit the site here](http://exercisetracker.info)
 
 ![Screenshot](docs/screenshot.jpg)
 
